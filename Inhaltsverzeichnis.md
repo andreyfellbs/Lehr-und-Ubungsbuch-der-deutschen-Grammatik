@@ -51,16 +51,14 @@ II|Liste der Sustantive auf -e(n)|
 |I|legen / liegen, stellen / stehen usw.|
 |II|Weitere transitive und intransitive Verben|
 ### §14 Rektion der Verben
-|||
-|-|-|
-|I|Verben mit dem Akkusativ|
-|II|Verben mit dem Dativ|
-|III|Verben mit Dativ und Akkusativ|
-|IV|Verben mit zwei Akkusativen|
-|V|Verben mit Akkusativ und Genitiv|
-|VI|Verben mit dem Genitiv|
-|VII|Verben mit dem Prädikatsnominativ|
-|VIII|Verben, die mit einem Akkusativ-objekt in einer festen Verbindung stehen|
+1. Verben mit dem Akkusativ
+2. Verben mit dem Dativ
+3. Verben mit Dativ und Akkusativ
+4. Verben mit zwei Akkusativen
+5. Verben mit Akkusativ und Genitiv
+6. Verben mit dem Genitiv
+7. Verben mit dem Prädikatsnominativ
+8. Verben, die mit einem Akkusativ-objekt in einer festen Verbindung stehen
 ### §15 Verben mit präpositionalem Objekt
 |||
 |-|-|
