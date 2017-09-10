@@ -1,11 +1,10 @@
 # Inhaltsverzeichnis
 ## Teil I
 ### §1 Deklination des Substantivs I
-|||
-|-|-|
-|I|Deklination mit dem bestimmten Artikel im Singular|
-|II|Deklination mit dem bestimmten Artikel im Plural|
-|III|Deklination mit dem unbestimmten Artikel
+
+1. Deklination mit dem bestimmten Artikel im Singular
+2. Deklination mit dem bestimmten Artikel im Plural
+3. Deklination mit dem unbestimmten Artikel
 ### §2 Deklination des Substantivs II (n-Deklination)
 |||
 |-|-|
