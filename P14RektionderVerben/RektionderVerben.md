@@ -4,7 +4,7 @@
 
 Rektion der Verben bedeutet, daß bestimmte Verben einen bestimmten Kasus fordern. Es gibt keine festen Regeln, welches Verb welchen Kasus 'regiert'.
 
-1. Verben mit dem Akkusativ
+1. [Verben mit dem Akkusativ](I_VerbenmitdemAkkusativ/VerbenmitdemAkkusativ.md)
 1. Verben mit dem Dativ
 1. Verben mit Dativ und Akkusativ
 1. Verben mit zwei Akkusativen

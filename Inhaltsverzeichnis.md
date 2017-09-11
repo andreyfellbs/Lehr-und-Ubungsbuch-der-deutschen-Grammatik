@@ -60,7 +60,7 @@
 
 ### [§14 Rektion der Verben](P14RektionderVerben/RektionderVerben.md)
 
-1. Verben mit dem Akkusativ
+1. [Verben mit dem Akkusativ](P14RektionderVerben/I_VerbenmitdemAkkusativ/VerbenmitdemAkkusativ.md)
 1. Verben mit dem Dativ
 1. Verben mit Dativ und Akkusativ
 1. Verben mit zwei Akkusativen
