@@ -10,38 +10,30 @@
 
 ### §2 Deklination des Substantivs II (n-Deklination)
 
-|||
-|-|-|
-I|Deklination mit dem bestimmten und dem unbestimmten Artikel|
-II|Liste der Sustantive auf -e(n)|
+1. Deklination mit dem bestimmten und dem unbestimmten Artikel
+1. Liste der Substantive auf -e(n)
 
 ### §3 Gebrauch des Artikels
 
-|||
-|-|-|
-|I|Der bestimmte Artikel|
-|II|Der unbestimmte Artikel|
-|III|Der Singular ohne Artikel|
+1. Der bestimmte Artikel
+1. Der unbestimmte Artikel
+1. Der Singular ohne Artikel
 
 ### §4 Deklination der Personalpronomen
 
 ### §5 Possessivpronomen
 
-|||
-|-|-|
-|I|Possessivpronomen der 1.–3. Person Singular und Plural im Nominativ|
-|II|Deklination der Possessivpronomen|
+1. Possessivpronomen der 1.–3. Person Singular und Plural im Nominativ
+1. Deklination der Possessivpronomen
 
 ### §6 Konjugation der Verben
 
-|||
-|-|-|
-|I|Vorbemerkungen|
-|II|Konjugation der schwachen Verben|
-|III|Konjugation der starken Verben|
-|IV|Konjugation der Verben mit Hilfs-e|
-|V|Konjugation der Mischverben|
-|VI|Sonderregeln zur Konjugation|
+1. Vorbemerkungen
+1. Konjugation der schwachen Verben
+1. Konjugation der starken Verben
+1. Konjugation der Verben mit Hilfs-e
+1. Konjugation der Mischverben
+1. Sonderregeln zur Konjugation
 
 ### §7 Trennbare Verben
 
@@ -49,10 +41,8 @@ II|Liste der Sustantive auf -e(n)|
 
 ### §9 Verben, die trennbar und untrennbar sind
 
-|||
-|-|-|
-|I|Regeln|
-|II|Liste|
+1. Regeln
+1. Liste
 
 ### §10 Reflexive Verben
 
@@ -60,17 +50,13 @@ II|Liste der Sustantive auf -e(n)|
 
 ### §12 Bildung des Perfekts mit „haben“ oder „sein“
 
-|||
-|-|-|
-|I|Verben mit „sein“|
-|II|Verben mit „haben“|
+1. Verben mit „sein“
+1. Verben mit „haben“
 
 ### §13 Transitive und intransitive Verben, die schwer zu unterscheiden sind
 
-|||
-|-|-|
-|I|legen / liegen, stellen / stehen usw.|
-|II|Weitere transitive und intransitive Verben|
+1. legen / liegen, stellen / stehen usw.
+1. Weitere transitive und intransitive Verben
 
 ### [§14 Rektion der Verben](P14RektionderVerben/RektionderVerben.md)
 
@@ -85,56 +71,42 @@ II|Liste der Sustantive auf -e(n)|
 
 ### §15 Verben mit präpositionalem Objekt
 
-|||
-|-|-|
-|I|Gebrauch|
-|II|Gebrauch bei Fragen, dass-Sätzen und Infinitivkonstruktionen|
-|III|Auswahl der gebräuchlichsten Verben mit Präposition|
-|IV|Feste Verb-Akkusativ-Verbindungen mit präpositionalem Objekt|
+1. Gebrauch
+1. Gebrauch bei Fragen, dass-Sätzen und Infinitivkonstruktionen
+1. Auswahl der gebräuchlichsten Verben mit Präposition
+1. Feste Verb-Akkusativ-Verbindungen mit präpositionalem Objekt
 
 ### §16 Verben mit dass-Sätzen oder Infinitivkonstruktionen
 
-|||
-|-|-|
-|I|Allgemeine Regeln|
-|II| Verben, von denen dass-Sätze oder Infinitivkonstruktionen abhängen können|
-|III|Gebrauch der Tempusformen in der Infinitivkonstruktion|
+1. Allgemeine Regeln
+1. Verben, von denen dass-Sätze oder Infinitivkonstruktionen abhängen können
+1. Gebrauch der Tempusformen in der Infinitivkonstruktion
 
 ### §17 Fragen
 
-|||
-|-|-|
-|I|Fragen ohne Fragewort|
-|II|Fragen mit Fragewort|
+1. Fragen ohne Fragewort
+1. Fragen mit Fragewort
 
 ### §18 Modalverben
 
-|||
-|-|-|
-|I|Die Bedeutung der Modalverben|
-|II|Formen und Gebrauch|
-|III|Verben, die wie Modalverben gebraucht werden|
-|IV|Modalverben mit zwei Infinitiven|
+1. Die Bedeutung der Modalverben
+1. Formen und Gebrauch
+1. Verben, die wie Modalverben gebraucht werden
+1. Modalverben mit zwei Infinitiven
 
 ### §19 Das Passiv
 
-|||
-|-|-|
-|I|Konjugation|
-|II|Gebrauch|
-|III|Passiv mit Modalverben|
-|IV|Passiv in der Infinitivkonstruktion|
+1. Konjugation
+1. Gebrauch
+1. Passiv mit Modalverben
+1. Passiv in der Infinitivkonstruktion
 
 ### §20 Modalverben zur subjektiven Aussage
 
-|||
-|-|-|
-|I|Formen und Gebrauch|
-|II|Gebrauch der subjektiven Modalverben im Konjunktiv|
+1. Formen und Gebrauch
+1. Gebrauch der subjektiven Modalverben im Konjunktiv
 
 ### §21 Futur I und II zum Ausdruck der Vermutung
 
-|||
-|-|-|
-|I|Hauptsätze|
-|II|Nebensätze|
+1. Hauptsätze
+1. Nebensätze
