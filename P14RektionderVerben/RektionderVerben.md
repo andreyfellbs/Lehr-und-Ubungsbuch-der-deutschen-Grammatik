@@ -2,7 +2,7 @@
 
 ## Vorbemerkung
 
-[Rektion](rektion.md) der Verben bedeutet, daß bestimmte Verben einen bestimmten Kasus fordern. Es gibt keine festen Regeln, welches Verb welchen Kasus 'regiert'.
+[Rektion](rektion.md) der Verben bedeutet, daß bestimmte Verben einen bestimmten [Kasus](kasus.md) fordern. Es gibt keine festen Regeln, welches Verb welchen Kasus 'regiert'.
 
 1. [Verben mit dem Akkusativ](I_VerbenmitdemAkkusativ/VerbenmitdemAkkusativ.md)
 1. Verben mit dem Dativ
